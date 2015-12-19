@@ -2,7 +2,7 @@
 layout: page
 title: Technology Transfer
 permalink: /technology-transfer/
-image: lightbulb-thin.jpg
+image: construction-thin.jpg
 ---
 
 # Technology Transfer
