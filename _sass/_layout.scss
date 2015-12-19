@@ -1,3 +1,11 @@
+h1 {
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 24px;
+}
+
 a, a:visited {
   color: $dark-color-blue;
 }
@@ -19,8 +27,7 @@ a, a:visited {
 }
 
 .content-area {
-  padding-left: $spacing-unit * 2;
-  padding-right: $spacing-unit * 2;
+  padding: $spacing-unit * 2;
 }
 
 .container {
@@ -62,6 +69,10 @@ a, a:visited {
   margin-bottom: 0px;
 }
 
+.navbar {
+  margin-bottom: 0px;
+}
+
 .navbar .navbar-nav {
   display: inline-block;
   float: none;
@@ -70,6 +81,10 @@ a, a:visited {
 
 .navbar .navbar-collapse {
   text-align: center;
+  font-weight: bold;
+}
+
+.dropdown-menu>li>a {
   font-weight: bold;
 }
 

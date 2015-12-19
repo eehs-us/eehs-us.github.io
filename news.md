@@ -9,21 +9,20 @@ image: forest-light-thin.jpg
 
 ## New Partnership for Waste Management
 
-In December 2015, EEHS established a partnership with Pollux Consulting
-[hyperlink] in Belgium to pursue mutually beneficial waste management projects in
+In December 2015, EEHS established a partnership with [Pollux Consulting](http://polluxconsulting.com/) in Belgium to pursue mutually beneficial waste management projects in
 Lebanon and the Middle East.
 
 ## Smarter Recycling
 
-In November 2015, EEHS partnered up with Binee [hyperlink], a German startup
+In November 2015, EEHS partnered up with [Binee](http://www.binee.com/), a German startup
 designing state-of-the art recycling bins connected to smartphones. This technology
 aims to incentivize individual and community sorting and recycling of waste. Pilot
 projects in Lebanon and the Middle East are currently in the works.
 
 ## ISWA Conference 2015
 
-In September 2015, EEHS attended the International Solid Waste Association’s
-World Congress [hyperlink iswa15.org] in Antwerp, Belgium. The conference
+In September 2015, EEHS attended the [International Solid Waste Association’s
+World Congress](http://iswa2015.org) in Antwerp, Belgium. The conference
 addressed global waste management priorities including waste-to-energy
 techniques, sanitary landfilling, and climate change
 

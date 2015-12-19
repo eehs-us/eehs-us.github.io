@@ -18,6 +18,6 @@ We specialize in solid waste management (SWM) services including:
 EEHS also has labs for soil, water, and air quality testing. We completed a major
 project for the Tripoli landfill in Lebanon conducting geotechnical and
 geo-environmental design including slope stability investigation and leachate
-draining systems. We are currently [Link to News and Updates] working on two
+draining systems. We are [currently](/news) working on two
 sorting and composting facilities in Lebanon including the engineering design
 and environmental and health impact assessments.
