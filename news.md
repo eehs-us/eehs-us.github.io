@@ -2,7 +2,7 @@
 layout: page
 title: News & Updates
 permalink: /news/
-image: forest-light-thin.jpg
+image: pine-needles-thin.jpg
 ---
 
 # News and Updates

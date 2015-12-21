@@ -2,7 +2,7 @@
 layout: page
 title: Other Services
 permalink: /other-services/
-image: pine-needles-thin.jpg
+image: traffic-cones-thin.jpg
 ---
 
 # Other Services

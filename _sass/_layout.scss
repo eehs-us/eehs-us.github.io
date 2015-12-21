@@ -19,6 +19,11 @@ a, a:visited {
 
 .navbar-toggle {
   border: 1px solid $dark-color-blue;
+
+}
+
+.navbar {
+
 }
 
 .navbar-toggle:hover {
@@ -45,7 +50,7 @@ a, a:visited {
   border-top: $grey-color-dark 1px solid;
   border-bottom: $grey-color-dark 1px solid;
   border-radius: 0;
-
+  background: #cdcdcd;
 }
 
 .navbar-nav > li{
@@ -55,9 +60,14 @@ a, a:visited {
 
 .banner {
   color: $dark-color-blue;
-  margin-bottom: $spacing-unit;
+  padding-bottom: $spacing-unit;
   padding-left: $spacing-unit * 2;
   padding-right: $spacing-unit * 2;
+
+}
+
+.panel .panel-title {
+  color: #fdfdfd;
 }
 
 .banner p {
@@ -70,6 +80,10 @@ a, a:visited {
   font-size: $base-font-size * 6;
   font-weight: 700;
   margin-bottom: 0px;
+}
+
+.banner {
+  padding-top: $spacing-unit;
 }
 
 .banner p {
