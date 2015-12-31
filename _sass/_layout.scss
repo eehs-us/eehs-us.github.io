@@ -2,11 +2,71 @@ h1 {
   font-weight: bold;
 }
 
+h1.small {
+  font-size: 24px;
+}
+
+h2.bold {
+
+}
+
 h2 {
   font-size: 24px;
 }
 
+hr {
+  margin-bottom: 20px;
+  border-top: 1px solid #333;
+}
 
+.content-area h1 {
+  margin-bottom: 25px;
+}
+
+.content-area h1, .content-area h2 {
+  color: #25348A;
+}
+
+.content-area h2, .content-area h3 {
+  color: #4d4d4d;
+}
+
+.content-area h3 {
+  font-size: 20px;
+}
+
+.leed {
+  font-size: 12px;
+}
+
+.row-height {
+  display: table;
+  table-layout: fixed;
+  height: 100%;
+  width: 100%;
+}
+.col-height {
+  display: table-cell;
+  float: none;
+  height: 100%;
+}
+.col-top {
+  vertical-align: top;
+}
+.col-middle {
+  vertical-align: middle;
+}
+.col-bottom {
+  vertical-align: bottom;
+}
+
+.dropdown-menu {
+  color: #25348A;
+}
+
+.dropdown-menu>li>a {
+  color: #25348A;
+}
 
 .content-area p {
   text-align: justify;
@@ -42,6 +102,9 @@ a, a:visited {
   padding: $spacing-unit*2;
 }
 
+
+
+
 .container {
   max-width: 100%;
 }
@@ -50,7 +113,7 @@ a, a:visited {
   border-top: $grey-color-dark 1px solid;
   border-bottom: $grey-color-dark 1px solid;
   border-radius: 0;
-  background: #cdcdcd;
+  background: #e8e8e8;
 }
 
 .navbar-nav > li{

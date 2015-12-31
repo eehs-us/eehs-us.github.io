@@ -15,7 +15,7 @@ treatment units for various communities with limited access to water and
 sanitation. Training and capacity building of relevant workers and stakeholders is a
 critical component of our approach to technology transfer.
 
-Recently, [Link to news and updates] EEHS partnered up with Binee [hyperlink],
+[Recently](/news), EEHS partnered up with [Binee](http://www.binee.com),
 a German startup designing state-of-the art recycling bins connected to
 smartphones, to pursue projects that incentivize individual and community sorting
 and recycling of waste.

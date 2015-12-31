@@ -16,7 +16,7 @@ choose the best fit for the project. LEED is currently being used in more than 1
 countries. We guide our clients through the process of obtaining LEED Certification
 from the United States Green Building Council.
 
-
+<div class="leed">
 <div class="row">
   <div class="col-md-6">
     <div class="panel panel-default">
@@ -53,13 +53,14 @@ from the United States Green Building Council.
   <div class="col-md-6">
     <div class="panel panel-default">
       <div class="panel-heading" style="background-color:#A352CC;">
-        <h3 class="panel-title">High Performance Operations - Operations and Maintenence</h3>
+        <h3 class="panel-title">High Performance Operations - Operations and Maintenance</h3>
       </div>
       <div class="panel-body">
         EXISTING BUILDINGS, SCHOOLS, DATA CENTERS, WAREHOUSES AND DISTRIBUTION CENTERS, HOSPITALITY RETAIL
       </div>
     </div>
   </div>
+</div>
 </div>
 
 
