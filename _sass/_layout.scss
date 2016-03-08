@@ -50,11 +50,19 @@ hr {
   float: none;
   height: 100%;
 }
+
+@include media-query($on-palm) {
+  .col-height {
+    display: block;
+  }
+}
+
 .col-top {
   vertical-align: top;
 }
 .col-middle {
   vertical-align: middle;
+  text-align: center;
 }
 .col-bottom {
   vertical-align: bottom;
@@ -99,11 +107,8 @@ a, a:visited {
 }
 
 .content-area {
-  padding: $spacing-unit*2;
+  padding: $spacing-unit;
 }
-
-
-
 
 .container {
   max-width: 100%;
