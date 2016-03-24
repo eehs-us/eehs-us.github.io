@@ -78,7 +78,7 @@ hr {
 
 .content-area p {
   text-align: justify;
-    text-justify: inter-word;
+  text-justify: inter-word;
 }
 
 a, a:visited {
@@ -333,6 +333,11 @@ a, a:visited {
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
+
+    .content-area p {
+      text-align: left;
+    }
+
 }
 
 
