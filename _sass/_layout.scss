@@ -150,6 +150,10 @@ a, a:visited {
   margin-bottom: 0px;
 }
 
+.banner-text {
+  text-align: right;
+}
+
 .banner {
   padding-top: $spacing-unit;
 }
@@ -336,6 +340,10 @@ a, a:visited {
 
     .content-area p {
       text-align: left;
+    }
+
+    .banner-text {
+      text-align: center;
     }
 
 }
