@@ -26,4 +26,4 @@ Email: <klc@klc-cgc.com>
 Oakland, CA 94610, USA  
 Phone: 1-510-698-9162  
 Fax: 1-510-495-9162  
-Email: <eehs.usa@gmail.com>  
+Email: <info@eehs.co>  
