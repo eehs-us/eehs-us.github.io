@@ -1,8 +1,8 @@
 # Site settings
-title: EEHS - US
+title: Environmental Engineering and Health Services
 email: your-email@domain.com
 description: Environmental Engineering and Health Services
-url: "http://eehs.us" # the base hostname & protocol for your site
+url: "http://www.eehs.co" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
