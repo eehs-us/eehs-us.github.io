@@ -10,7 +10,7 @@ image: forest-light-thin.jpg
 ## Lebanon (Head Office):
 
 Hamra Street, Saroulla Building, Beirut, Lebanon  
-Telephone: +961 1 347 232; Fax: +961 1 349157  
+Telephone: +961 1 347232; Fax: +961 1 349157  
 Email: <cgc@cgc-international.com>
 
 ## Kuwait:
