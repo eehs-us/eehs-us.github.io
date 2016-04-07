@@ -25,5 +25,5 @@ Email: <klc@klc-cgc.com>
 410 Bellevue, Suite 206  
 Oakland, CA 94610, USA  
 Phone: 1-510-698-9162  
-Fax: 1-510-495-9162  
+Fax: 1-510-495-1080  
 Email: <info@eehs.co>  
