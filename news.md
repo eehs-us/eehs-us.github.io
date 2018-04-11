@@ -9,7 +9,7 @@ image: pine-needles-thin.jpg
 
 ### Completion of Sorting and Composting Facilities in Lebanon
 
-In November 2017, EEHS completed work on design and supervision of sorting and composting facilities in Zahle and Joub Janine, Lebanon. EEHS completed the design of the facilitues and supervised the construction work on the ground. The project was implemented in partnership with OMSAR and local contractors. 
+In November 2017, EEHS completed work on the design and supervision of sorting and composting facilities in Zahle and Joub Janine, Lebanon. EEHS completed the design of the facilitues and supervised the construction of work on the ground. The project was implemented in partnership with OMSAR and local contractors. 
 
 ***
 
