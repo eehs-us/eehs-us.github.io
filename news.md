@@ -7,6 +7,17 @@ image: pine-needles-thin.jpg
 
 # News and Updates
 
+### Completion of Sorting and Composting Facilities in Lebanon
+
+In November 2017, EEHS completed work on design and supervision of sorting and composting facilities in Zahle and Joub Janine, Lebanon. EEHS completed the design of the facilitues and supervised the construction work on the ground. The project was implemented in partnership with OMSAR and local contractors. 
+
+***
+
+### Assesment for Potential Expansion for UNRWA in Nahr El Bared Lebanon
+
+In July 2017, EEHS completed an evaluation of old concrete demolished buildings at Nahr El Bared in partnership with the United Nations Relief and Works Agency for Palestine Refugees (UNRWA). The soundness of the rubble and its potential use without adverse environmental effects was addressed using both physical and chemical test results.
+***
+
 ### Partnership for Waste Management
 
 In December 2015, EEHS established a partnership with [Pollux Consulting](http://polluxconsulting.com/) in Belgium to pursue mutually beneficial waste management projects in
