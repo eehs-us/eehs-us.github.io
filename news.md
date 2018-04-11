@@ -16,12 +16,12 @@ In November 2017, EEHS completed work on design and supervision of sorting and c
 ### Assessment of Structural Expansion for UNRWA in Nahr El Bared Lebanon
 
 In July 2017, EEHS completed an evaluation of old concrete demolished buildings at Nahr El Bared in partnership with the United Nations Relief and Works Agency for Palestine Refugees (UNRWA). The soundness of the rubble and its potential use without adverse environmental effects was addressed using both physical and chemical test results.
+
 ***
 
 ### Partnership for Waste Management
 
-In December 2015, EEHS established a partnership with [Pollux Consulting](http://polluxconsulting.com/) in Belgium to pursue mutually beneficial waste management projects in
-Lebanon and the Middle East.
+In December 2015, EEHS established a partnership with [Pollux Consulting](http://polluxconsulting.com/) in Belgium to pursue mutually beneficial waste management projects in Lebanon and the Middle East.
 
 ***
 
