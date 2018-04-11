@@ -56,4 +56,4 @@ with the Gulf Dredging Company, Kuwait.
 
 ### Green Building in Lebanon
 
-EEHS staff participated in the Lebanon Green Building Councilin 2014.
+EEHS staff participated in the Lebanon Green Building Council in 2014.
