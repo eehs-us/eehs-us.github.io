@@ -25,15 +25,6 @@ Lebanon and the Middle East.
 
 ***
 
-### Smarter Recycling
-
-In November 2015, EEHS partnered up with [Binee](http://www.binee.com/), a German startup
-designing state-of-the art recycling bins connected to smartphones. This technology
-aims to incentivize individual and community sorting and recycling of waste. Pilot
-projects in Lebanon and the Middle East are currently in the works.
-
-***
-
 ### ISWA Conference 2015
 
 In September 2015, EEHS attended the [International Solid Waste Association’s
